@@ -1,7 +1,8 @@
 import './App.css';
-import Footer from './components/Footer'
+import React from 'react';
 import Forminput from './components/Forminput'
 import List from './components/List'
+import Footer from './components/Footer'
 import {DataProvider} from './components/DataProvider'
 
 function App() {
